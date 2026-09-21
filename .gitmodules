@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "OryzaProbe"]
 	path = OryzaProbe
-	url = https://github.com/cran/OryzaProbe
+	url = https://github.com/lym-bioinfo/oryzaprobe
